@@ -1,0 +1,21 @@
+.input-task{
+    padding-left: 20px;
+    border-radius: 10px;
+    border: 1px solid #000;
+}
+.task-submit-btn{
+    background-color: #1e90ff;
+    border-color: #1e90ff;
+    color: #fff;
+    font-weight: 500;
+    border-width: 0px;
+    padding: 5px 25px;
+    border-radius: 5px;
+}
+.search-item-container{
+    width: 300px;
+    background-color: #f8f8ff;
+    border-radius: 30px;
+    padding: 20px;
+    margin: auto;
+}

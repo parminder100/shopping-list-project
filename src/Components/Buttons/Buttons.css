@@ -1,0 +1,22 @@
+.mark-btn{
+    order:1
+}
+.delete-btn{
+    order: 3;
+    cursor: pointer;
+    color:#ff0000
+}
+.shopping-item-btn{
+    display: flex;
+    order: 4;
+    gap: 20px;
+}
+.number-of-shopping-items{
+    font-weight: 500;
+}
+.fa-angle-left{
+    cursor: pointer;
+}
+.fa-angle-right{
+    cursor: pointer;
+}

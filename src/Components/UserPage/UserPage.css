@@ -1,0 +1,60 @@
+.user-container{
+    width: 300px;
+    padding:60px 30px;
+    background-color: #131f53;
+    margin-top: 50px;
+    border-radius: 30px;
+    position: absolute;
+    left: -213px;
+    z-index: -100;
+    top: -101px;
+    height: 510px;
+}
+.user-image{
+    border-radius: 50px;
+    width: 60px;
+    border:2px solid #fff;
+    margin-bottom: 20px;
+}
+.user-page-name{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.user-categories{
+    color:#fff;
+    margin-bottom: 15px;
+}
+.fa-bookmark{
+    color:#59659a;
+    margin-right: 15px;
+}
+.categories-icon{
+    width: 14px;
+    margin-right: 15px;
+}
+.fa-pie-chart{
+    color:#59659a;
+    margin-right: 15px;
+    font-size: 16px;
+}
+.fa-gear{
+    color:#59659a;
+    margin-right: 15px;
+}
+.prosidebar-menu{
+    position:absolute;
+    background-color: #8194e9;
+    z-index: 100;
+    height: -webkit-fill-available;
+    padding-top: 80px;
+    border-radius: 18px;
+    transition: all 5s;
+}
+.shopping-items-container .prosidebar-menu{
+    padding-left: 0px;
+}
+.css-16jkw2k >.ps-menu-button:hover{
+    background-color: unset !important;
+}

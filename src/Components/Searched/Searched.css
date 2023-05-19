@@ -1,0 +1,38 @@
+.search-container{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.search-input{
+    width: 0px;
+    padding-left: 25px;
+    transition: all 1s;
+    position: absolute;
+}
+.search-icon{
+    position: relative;
+    left: 8px;
+    cursor: pointer;
+}
+.search-input-and-alert-bell-column{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.user-name{
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 0px;
+    padding-top: 18px;
+}
+.fa-bell{
+    color:#d3d3d3;
+}
+.fa-bars{
+    cursor: pointer;
+    position: absolute;
+    z-index: 999;
+}
+.navbar-pt{
+    padding-left: 20px !important;
+}
